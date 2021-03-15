@@ -1,0 +1,27 @@
+{
+  "name": "your-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianalbr/your-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianalbr/your-journey/issues"
+  },
+  "homepage": "https://github.com/adrianalbr/your-journey#readme",
+  "dependencies": {
+    "concurrently": "^6.0.0",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.12.0"
+  }
+}
