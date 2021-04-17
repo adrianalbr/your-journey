@@ -1,8 +1,8 @@
 const express = require("express");
 const path = require("path");
 const mongoose = require("mongoose");
-const contentRoutes = require("./routes/contentRoutes");
-const auth = require ("./middleware/auth");
+// const contentRoutes = require("./routes/contentRoutes");
+// const auth = require ("./middleware/auth");
 
 // const routes = require("./routes");
 const app = express();
